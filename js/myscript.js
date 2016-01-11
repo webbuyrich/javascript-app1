@@ -51,5 +51,7 @@ window.onload = function(){
 	 var numberDisplay = document.getElementById("numberDisplay");
 	 numberDisplay.innerHTML = "The first number is " + myNum + ", and the second number is " + anotherNum;
 
+	 
+
 	
 }
